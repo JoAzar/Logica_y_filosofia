@@ -107,11 +107,4 @@ Si no, sería **un mal uso del tercero excluido** por falta de significado.
 
 ---
 
-## Referencias
-
-[^1]: Aristóteles, *Metafísica*  
-[^2]: Principio de bivalencia  
-[^3]: Lógica clásica vs. lógica difusa  
-[^4]: Las tres leyes clásicas del pensamiento  
-[^5]: Diferencia entre juicios contradictorios y contrarios  
-[^6]: Stuart Mill y el sentido lógico
+By Favio Joel Zalazar
